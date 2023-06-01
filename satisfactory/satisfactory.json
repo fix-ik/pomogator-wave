@@ -1,8 +1,8 @@
 {
-  "permalink": "/satisfactory/{{ page.filePathStem }}/index.html",
+  "permalink": "/satisfactory/{{ page.filePathStem }}",
   "tags": [
     "posts", "satisfactory"
   ],
   "includeJsonLD": true,
-  "layout": "satisfactory/post.njk"
+  "layout": "post"
 }

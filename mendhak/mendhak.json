@@ -1,8 +1,8 @@
 {
   "permalink": "/mendhak/{{ page.filePathStem }}",
   "tags": [
-    "posts"
+    "posts", "mendhak"
   ],
   "includeJsonLD": true,
-  "layout": "mendhak/post.njk"
+  "layout": "post"
 }
